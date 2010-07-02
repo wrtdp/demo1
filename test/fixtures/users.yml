@@ -1,0 +1,16 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+
+one:
+  name : meh
+  phone : 21231
+  email : hot@not.com
+  about : nothing to say about here
+  address : address is this and that's it
+
+two:
+  name : rahul
+  phone : 12123
+  email : not@not.com
+  about :   abouts nothing to say about here
+  address : nothing to say about here
